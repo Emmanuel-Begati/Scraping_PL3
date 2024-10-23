@@ -7,7 +7,7 @@
 - **Caroline**
 
 ## Summary
-This repository focuses on tasks related to web scraping and the use of APIs. The project involves the following tasks:
+This repository consist of tasks related to web scraping and  APIs. The project involves the following tasks:
 
 ### Tasks
 1. **Task 0**
