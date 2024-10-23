@@ -1,10 +1,10 @@
 # APIs and Web Scraping Peer Learning Activity - Group 3
 
 ## Group Members
-- **Emmanuel**: Presented on Task 0
-- **Esther**: Introduced the team and presented on the Amazon task
-- **Charite**: Continued with the presentation on the Amazon task
-- **Caroline**: Presented on scraping tabular data
+- **Emmanuel**
+- **Esther**
+- **Charite**
+- **Caroline**
 
 ## Summary
 This repository focuses on tasks related to web scraping and the use of APIs. The project involves the following tasks:
