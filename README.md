@@ -114,9 +114,9 @@ This project demonstrates how to scrape tabular data using the BeautifulSoup lib
    ```
 
 
-```
+---
 
 ## Amazon Tasks:
 
 
-```
+---
