@@ -69,7 +69,7 @@ The `availableShips` function queries the SWAPI for starship data and filters th
 ```
 
 ## TASK 2: Web Scraping From Tabular Data
-This project demonstrates how to scrape tabular data using the BeautifulSoup library in Python. The goal is to extract the table data and save the data in CSV format.
+This task shows how to scrape tabular data using the BeautifulSoup library in Python and the goal is to extract the table data and save the data in CSV format.
 
 
 #### Implementation
@@ -120,12 +120,15 @@ This project uses web scraping techniques to list products from five categories 
 #### Implementation
 
 - A session is created using the `requests` library to maintain cookies and headers.
+```python
+session.headers.update(headers)
+```
 - Updated headers were included to mimic a browser request, to get access to Amazon's content.
 ```python
 session.headers.update(headers)
 ```
 
-- The following categories were our targeted categories for scraping:
+- Our targeted categories for scraping:
   - Laptops
   - Headphones
   - Smartphones
